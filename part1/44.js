@@ -2,10 +2,6 @@ function singHappyBirthday(){
     console.log("happy birthday to you ......");
 }
 
-function sumThreeNumbers(number1, number2, number3){
-    return number1 + number2 + number3;
-}
-
 
 
 // isEven
